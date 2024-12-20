@@ -35,7 +35,7 @@
     "react-dom": "^18.2.0",
     "react-dropzone": "^14.3.5",
     "tmp": "^0.2.3",
-    "zustand": "^3.6.9"
+    "zustand": "^5.0.2"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
